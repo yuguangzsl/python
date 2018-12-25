@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'this is my ai'), ('letters', 'aeiou')])  ……  127.0.0.1  ……  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36  ……  {'a', 'i'}
+ImmutableMultiDict([('phrase', 'i like liu yi tong'), ('letters', 'aeiou')])  ……  127.0.0.1  ……  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36  ……  {'o', 'u', 'i', 'e'}
+ImmutableMultiDict([('phrase', 'i like liu yi tong'), ('letters', 'aeiou')])……127.0.0.1……Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36……{'o', 'e', 'u', 'i'}
+ImmutableMultiDict([('phrase', 'ni hao ke ai'), ('letters', 'aeiou')])……127.0.0.1……Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36……{'o', 'a', 'i', 'e'}
+ImmutableMultiDict([('phrase', 'life,the universe,and everying'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36|{'u', 'a', 'i', 'e'}
+ImmutableMultiDict([('phrase', 'hitch-hiker'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36|{'i', 'e'}
